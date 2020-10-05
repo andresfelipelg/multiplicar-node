@@ -1,0 +1,14 @@
+{
+    "name": "04-fundamentos",
+    "version": "2.0.0",
+    "description": "esta es una aplicacion de linea de comandos",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "andres lopez",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^16.0.3"
+    }
+}
